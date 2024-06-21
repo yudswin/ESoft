@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "ESoft",
+  "description": "ESoft",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Open tracker"
+  }
+}
